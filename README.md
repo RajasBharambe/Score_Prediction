@@ -1,3 +1,3 @@
-# Score_Prediction
+# Score Prediction
 
 Given the Study hours of a student Predicted the Percentage Score he get
